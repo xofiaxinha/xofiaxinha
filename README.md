@@ -1,5 +1,4 @@
-$$\color{#DCD8DD}Seja \ bem \ vinde \ ao \ meu \ perfil!\\
-  \color{#161252}Seja \ bem \ vinde \ ao \ meu \ perfil!$$
+$$Seja \ bem \ vinde \ ao \ meu \ perfil!$$
 
 <p align ="center"> ☕️ </p>
 <p align = "left">
