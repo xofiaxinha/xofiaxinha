@@ -11,7 +11,7 @@ $$Seja \ bem \ vinde \ ao \ meu \ perfil!$$
 
 <p align = "left">
   <details>
-    <summary>***Linguagens:***</summary>
+    <summary><i><b>Linguagens:</b></i></summary>
     <p>🔹 C/C++</p>
     <p>🔹 Python</p>
   </details>
