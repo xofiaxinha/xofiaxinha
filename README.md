@@ -17,5 +17,5 @@ $$Seja \ bem \ vinde \ ao \ meu \ perfil!$$
 
 <p align = "left">
   Contato:
-    👔 [linkedin](https://www.linkedin.com/in/xofiaxinha/).
+    👔 [LinkedIn](https://www.linkedin.com/in/xofiaxinha/)
 </p>
