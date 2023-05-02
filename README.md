@@ -2,7 +2,7 @@ $$Seja \ bem \ vinde \ ao \ meu \ perfil!$$
 
 <p align ="center"> ☕️ </p>
 
-<img src="https://github.com/xofiaxinha/xofiaxinha/blob/main/181%20Sem%20T%C3%ADtulo2_20230502191503.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Icon Sofia, desenho de uma garota com máscara de caveira">
+<img src="https://github.com/xofiaxinha/xofiaxinha/blob/main/181%20Sem%20T%C3%ADtulo2_20230502191503.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Icon Sofia, desenho de uma garota com máscara de caveira">
 <p align = "left">
   💙 Oi oi, me chamo Sofia, sou estudante de Ciência da Computação na Universidade Federal do Ceará.
 </p>
