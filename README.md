@@ -18,7 +18,7 @@ $$Seja \ bem \ vinde \ ao \ meu \ perfil!$$
 </p>
 
 <p align = "left">
-  #### Contato:
+  ### Contato:
 </p>
 <p align = "left">
     <a href="#" alt="Linkedin">
