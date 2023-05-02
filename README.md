@@ -24,6 +24,6 @@ $$Seja \ bem \ vinde \ ao \ meu \ perfil!$$
     <a href="https://www.linkedin.com/in/xofiaxinha/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xofiaxinha/" /></a>
 </p>
-  <a href="msofia.lima@alu.ufc.br" alt="Gmail">
+  <a href="mailto:msofia.lima@alu.ufc.br" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=msofia.lima@alu.ufc.br" /></a>
 <p align = "left">
