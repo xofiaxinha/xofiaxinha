@@ -1,4 +1,4 @@
-$$Seja \ bem \ vinde \ ao \ meu \ perfil!$$
+$$Seja \ bem \ vindo \ ao \ meu \ perfil!$$
 
 <p align ="center"> ☕️ </p>
 
